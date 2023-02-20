@@ -1274,20 +1274,22 @@
         "type": "restaurant"
     },
     {
-        "address": "35 Newnham Road Newnham",
+        "address": "Rua Afonso Costa",
         "area": "west",
         "food": "thai",
         "id": "19256",
-        "introduction": "sala thong serves a variety of thai dishes at their restaurant catering for private parties of up to 40 guests is available upon request",
+        "introduction": "--------",
         "location": [
-            52.199012,
-            0.113196
+            0,
+            0
         ],
-        "name": "sala thong",
+        "name": "Dee Thai Food",
         "phone": "01223323178",
         "postcode": "cb39ey",
         "pricerange": "expensive",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19256",
+        "nameMultiWoz": "sala thong"
     },
     {
         "address": "R. Dr. Manuel Rodrigues 39",

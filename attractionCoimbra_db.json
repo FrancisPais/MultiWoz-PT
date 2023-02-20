@@ -1,19 +1,21 @@
 [
     {
-        "address": "pool way, whitehill road, off newmarket road",
+        "address": "Av. Calouste Gulbenkian",
         "area": "east",
         "entrance fee": "?",
         "id": "1",
         "location": [
-            52.208789,
-            0.154883
+            0,
+            0
         ],
-        "name": "abbey pool and astroturf pitch",
+        "name": "Associação de Natação de Coimbra",
         "openhours": "?",
         "phone": "01223902088",
         "postcode": "cb58nt",
         "pricerange": "?",
-        "type": "swimmingpool"
+        "type": "swimmingpool",
+        "idMultiWoz": "1",
+        "nameMultiWoz": "abbey pool and astroturf pitch"
     },
     {
         "address": "Rua Pedro Nunes",
