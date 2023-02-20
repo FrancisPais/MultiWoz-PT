@@ -156,22 +156,20 @@
         "type": "museum"
     },
     {
-        "address": "R. Padre António Vieira, nº1, edifício da AAC",
+        "address": "6 saint edward's passage",
         "area": "centre",
         "entrance fee": "?",
         "id": "10",
         "location": [
-            40.209821,
-            -8.420977
+            52.2034781571435,
+            0.119176917855308
         ],
-        "name": "Círculo de Iniciação Teatral da Academia de Coimbra",
+        "name": "cambridge arts theatre",
         "openhours": "?",
-        "phone": "933956833",
-        "postcode": "3000-315",
+        "phone": "01223503333",
+        "postcode": "cb23pj",
         "pricerange": "?",
-        "type": "theatre",
-        "idMultiWoz": "10",
-        "nameMultiWoz": "cambridge arts theatre"
+        "type": "theatre"
     },
     {
         "address": "5 greens road",
@@ -565,23 +563,21 @@
         "pricerange": "free",
         "type": "college"
     },
-     {
-        "address": "Rua da Sofia 174",
+    {
+        "address": "jesus lane",
         "area": "centre",
         "entrance fee": "free",
         "id": "34",
         "location": [
-            40.213996,
-            -8.431258
+            52.209353,
+            0.125342
         ],
-        "name": "Colégio da Graça",
-        "openhours": "?",
-        "phone": "239857095",
-        "postcode": "3000-229",
+        "name": "jesus college",
+        "openhours": "it opens normally daily from 9 a.m. to 5 p.m. except easter term",
+        "phone": "01223339485",
+        "postcode": "cb58bl",
         "pricerange": "free",
-        "type": "college",
-        "idMultiWoz": "34",
-        "nameMultiWoz": "jesus college"
+        "type": "college"
     },
     {
         "address": "between victoria road and the river",
@@ -698,22 +694,20 @@
         "type": "museum"
     },
     {
-        "address": "R. Frei Tomé de Jesus 11",
-        "area": "east",
+        "address": "magdalene street",
+        "area": "west",
         "entrance fee": "free",
         "id": "42",
         "location": [
-            40.215016,
-            -8.427000
+            52.210403,
+            0.115803
         ],
-        "name": "Colégio de São José",
-        "openhours": "aberto de segunda a sexta das 07:45 às 18:45.",
-        "phone": "239852330",
-        "postcode": "3000-195",
+        "name": "magdalene college",
+        "openhours": "it opens normally daily from 9 a.m. to 5 p.m. except easter term",
+        "phone": "01223332138",
+        "postcode": "cb30ag",
         "pricerange": "free",
-        "type": "college",
-        "idMultiWoz": "42",
-        "nameMultiWoz": "magdalene college"
+        "type": "college"
     },
     {
         "address": "milton country park, milton",
