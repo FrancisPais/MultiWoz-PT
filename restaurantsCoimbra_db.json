@@ -152,20 +152,22 @@
         "type": "restaurant"
     },
     {
-        "address": "451 Newmarket Road Fen Ditton",
+        "address": "Rua Carlos Seixas",
         "area": "east",
         "food": "indian",
         "id": "19270",
-        "introduction": "curry prince is a neighbourhood indian restaurant serving authentic cuisine",
+        "introduction": "--------",
         "location": [
-            52.213072,
-            0.149771
+            0,
+            0
         ],
-        "name": "curry prince",
+        "name": "Italian Indian Palace",
         "phone": "01223566388",
         "postcode": "cb58jj",
         "pricerange": "moderate",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19270",
+        "nameMultiWoz": "curry prince"
     },
     {
         "address": "Av. Calouste Gulbenkian 81",
@@ -1089,20 +1091,22 @@
         "type": "restaurant"
     },
     {
-        "address": "Milton Road Chesterton",
+        "address": "R. Cidade de Poitiers ",
         "area": "north",
         "food": "chinese",
         "id": "19260",
-        "introduction": "A unique treat for all lovers of Chinese cuisine. From the Spice Islands to the food streets of Beijing and the finest ocean catch.",
+        "introduction": "----",
         "location": [
-            52.215311,
-            0.12593
+            0,
+            0
         ],
-        "name": "hakka",
-        "phone": "01223568988",
-        "postcode": "cb41jy",
+        "name": "Lung Wah",
+        "phone": "----",
+        "postcode": "----",
         "pricerange": "expensive",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz":"19260",
+        "nameMultiWoz":"hakka"
     },
     {
         "address": "Rua Nova 30",
@@ -1304,20 +1308,22 @@
         "nameMultiWoz": "city stop restaurant"
     },
     {
-        "address": "169 High Street Chesterton Chesterton",
+        "address": "Avenida Mendes Silva",
         "area": "north",
         "food": "asian oriental",
         "id": "19261",
-        "introduction": "saigon city serve vietnamese chinese and thai cuisine to eat in or take away",
+        "introduction": "--------",
         "location": [
-            52.218164,
-            0.143209
+            0,
+            0
         ],
-        "name": "saigon city",
+        "name": "Shari Sushi Bar",
         "phone": "01223356555",
-        "postcode": "cb41nl",
+        "postcode": "-----",
         "pricerange": "expensive",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19261",
+        "nameMultiWoz": "saigon city"
     },
     {
         "address": "Rua do Brasil 185",
@@ -1338,20 +1344,22 @@
         "nameMultiWoz": "peking restaurant"
     },
     {
-        "address": "Cambridge Leisure Park Clifton Way Cherry Hinton",
+        "address": "Rua O Conimbricense",
         "area": "south",
         "food": "italian",
         "id": "19195",
-        "introduction": "frankie and bennys has a traditional 1950s new york feel to it with its original family photographs, traditional wooden furniture and period music. They serve a wide range of authentic american and italian dishes.",
+        "introduction": "------",
         "location": [
-            52.190176,
-            0.13699
+            0,
+            0
         ],
-        "name": "frankie and bennys",
-        "phone": "01223412430",
-        "postcode": "cb17dy",
+        "name": "Osteria 44",
+        "phone": "910588187",
+        "postcode": "3030-504",
         "pricerange": "expensive",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19195",
+        "nameMultiWoz": "frankie and bennys"
     },
     {
         "address": "Hotel Felix Whitehouse Lane Huntingdon Road",
@@ -1420,20 +1428,23 @@
         "nameMultiWoz": "grafton hotel restaurant"
     },
     {
-        "address": "66 Chesterton Road Chesterton",
+        "address": "C. C. Forum Coimbra",
         "area": "north",
         "food": "chinese",
         "id": "19258",
-        "introduction": "the hotpot serves a variety of chinese dishes at their restaurant and can cater for private parties of up to five five guests upon request",
+        "introduction": "------------",
         "location": [
-            52.214531,
-            0.127298
+            0,
+            0
         ],
-        "name": "the hotpot",
-        "phone": "01223366552",
-        "postcode": "cb41ep",
+        "name": "Monte Fuji",
+        "phone": "-----",
+        "postcode": "----",
         "pricerange": "expensive",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19258",
+        "nameMultiWoz": "the hotpot"
+
     },
     {
         "address": "Quayside Off Bridge Street",
@@ -1502,20 +1513,22 @@
         "type": "restaurant"
     },
     {
-        "address": "Napier Street City Centre",
+        "address": "Rua Lourenço Almeida Azevedo",
         "area": "centre",
         "food": "chinese",
         "id": "19174",
-        "introduction": "tang chinese is a buffet restaurant and bar serving a variety of dishes for lunch and dinner there is also a takeaway menu available",
+        "introduction": "-------",
         "location": [
-            52.207702,
-            0.133982
+            0,
+            0
         ],
-        "name": "tang chinese",
-        "phone": "01223357187",
-        "postcode": "cb11hr",
+        "name": "Kyoto House",
+        "phone": "239054029",
+        "postcode": "3000-250",
         "pricerange": "expensive",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19174",
+        "nameMultiWoz": "tang chinese"
     },
     {
         "address": "34 - 35 Green Street",
@@ -1596,20 +1609,22 @@
         "type": "restaurant"
     },
     {
-        "address": "7 Barnwell Road Fen Ditton",
+        "address": "Rua dos Oleiros 16",
         "area": "east",
         "food": "indian",
         "id": "19274",
-        "introduction": "rajmahal serves traditional indian cuisine accomapnied by a broad wine list with beers and spirits also available",
+        "introduction": "-----",
         "location": [
-            52.211144,
-            0.163247
+            0,
+            0
         ],
-        "name": "rajmahal",
-        "phone": "01223244955",
-        "postcode": "cb58rg",
+        "name": "Taj Indian",
+        "phone": "239 052 713",
+        "postcode": "3000-302",
         "pricerange": "moderate",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19274",
+        "nameMultiWoz": "rajmahal"
     },
     {
         "address": "21 Burleigh Street City Centre",

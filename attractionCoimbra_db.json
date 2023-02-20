@@ -646,20 +646,22 @@
         "type": "college"
     },
     {
-        "address": "jedburgh court, kings hedges",
+        "address": "Rua António Sérgio",
         "area": "north",
         "entrance fee": "?",
         "id": "39",
         "location": [
-            52.23171,
-            0.122415
+            0,
+            0
         ],
-        "name": "kings hedges learner pool",
+        "name": "Piscinas Municipais Rui Abreu",
         "openhours": "?",
-        "phone": "01223353248",
-        "postcode": "cb42xh",
+        "phone": "239 499 120",
+        "postcode": "3020-305",
         "pricerange": "?",
-        "type": "swimmingpool"
+        "type": "swimmingpool",
+        "idMultiWoz": "39",
+        "nameMultiWoz": "kings hedges learner pool"
     },
     {
         "address": "little saint mary's lane",
@@ -1124,20 +1126,22 @@
         "nameMultiWoz": "the cambridge punter"
     },
     {
-        "address": "colville road, cherry hinton",
+        "address": "Av. da Guarda Inglesa",
         "area": "east",
         "entrance fee": "?",
         "id": "68",
         "location": [
-            52.186715,
-            0.17882
+            0,
+            0
         ],
-        "name": "the cherry hinton village centre",
-        "openhours": "it opens from 09:00 a.m. to 8:00 p.m. on sunday, and from 09:00 a.m. to 10:00 p.m. from monday to saturday",
-        "phone": "01223576412",
-        "postcode": "cb19ej",
+        "name": "Estádio Universitário de Coimbra",
+        "openhours": " 09h00 ",
+        "phone": "239 247 671",
+        "postcode": "3040-256",
         "pricerange": "?",
-        "type": "mutliple sports"
+        "type": "mutliple sports",
+        "idMultiWoz": "68",
+        "nameMultiWoz": "the cherry hinton village centre"
     },
     {
         "address": "8 market passage",
